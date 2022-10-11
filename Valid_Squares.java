@@ -1,13 +1,13 @@
 package com.pranit.BinarySearch;
 
 public class Valid_Squares {
-    //SO AMAZING WE CAN USE TRICK OF BINARY SEARCH!!
+    
     public static void main(String arg[])
     {
         System.out.println(mySqrt(40));
     }
     public static int mySqrt(int x) {
-        //NOT MY CODE BUT LEARNED FROM IT!!!
+        
 
         if(x == 0 || x == 1) return x;
 
