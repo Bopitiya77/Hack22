@@ -19,7 +19,8 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 ## How to contribute to this project
----Need to add steps here---
+* You can add any of your java projects using a PR
+* If it is according to the guidelines, your PR will be accepted and merged with "hacktoberfest-accepted"
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
