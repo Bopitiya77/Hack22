@@ -13,8 +13,9 @@ public class GFG {
         int number = 1 + (int)(100
                                * Math.random());
  
-        // Given K trials
-        int K = 5;
+        // Given K trials. 
+        //useed fair tries. - (1 + O(log(n)))
+        int K = 7;
  
         int i, guess;
  

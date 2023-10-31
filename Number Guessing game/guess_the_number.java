@@ -17,7 +17,8 @@ import java.util.Scanner;
                     * Math.random());
 
             // Given K trials
-            int K = 5;
+                    //useed fair tries. - (1 + O(log(n)))
+            int K = 7;
 
             int i, guess;
 
